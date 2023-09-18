@@ -1,0 +1,27 @@
+.card {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 90%;
+  background-color: beige;
+  color: black;
+  cursor: grab;
+}
+
+.newCard {
+  margin: 0 auto;
+  margin-bottom: 25px;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 90%;
+  height: 15%;
+  background-color: beige;
+  color: black;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+.cardDarc {
+  background-color: gainsboro;
+}

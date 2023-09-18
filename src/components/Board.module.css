@@ -1,0 +1,9 @@
+.board {
+  margin-right: 5%;
+
+  border: 1px solid white;
+  border-radius: 15px;
+}
+.board:last-child {
+  margin-right: 0;
+}
